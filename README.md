@@ -1,2 +1,0 @@
-# lwc-salesforce
-First project
